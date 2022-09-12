@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Clxms-Y
-- 🌱 I’m currently learning Java, Java script, Lua, Python & C++
+- 🌱 I’m currently learning Java, Java script, Lua & Python
